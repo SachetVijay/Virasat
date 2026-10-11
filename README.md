@@ -2,6 +2,8 @@
 
 **Your grandparents' stories, recipes, remedies and songs, kept in their own voice, in every Indian language.**
 
+**🔗 Live demo: http://32.196.157.176:3000** (hosted on AWS EC2)  ·  Try: open *Melukote's Sankranti*, pick **English**, tap **👵 In Ajji's voice**
+
 Built by **Sachet Vijay** (MTech 1st year, IIT Kharagpur) for the Sarvam Campus workshop challenge, entirely on **Sarvam AI**.
 
 ---
